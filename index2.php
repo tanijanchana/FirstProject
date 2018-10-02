@@ -30,4 +30,4 @@ print cal(100);
 function salary($x,$y){
     return $x * $y;
 }
-print salary(26,300);
+print salary(25,370);
